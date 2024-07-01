@@ -29,7 +29,7 @@
     "plugins": [
       "expo-router"
     ],
-    "entryPoint" : "./app/Apptsx",
+    "entryPoint" : "./app/App.tsx",
     "experiments": {
       "typedRoutes": true
     }
